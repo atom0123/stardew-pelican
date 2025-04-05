@@ -1,3 +1,5 @@
+* THIS DOES NOT WORK CURRENTLY *
+
 My initial attempt at creating a Pterodactyl Panel egg for Stardew Valley.
 
 Most of this code is from https://github.com/huntercavazos/stardew-multiplayer-docker so all credit goes to them, and they are the real MVP. 
